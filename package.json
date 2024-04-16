@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://Dixitraj281.github.io/react-gh-pages",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
